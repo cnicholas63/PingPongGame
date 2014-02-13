@@ -32,17 +32,6 @@ implements GameConstants{
 	Dimension preferredSize = new
 			Dimension(TABLE_WIDTH,TABLE_HEIGHT);
 	
-	// Comment from laptop
-	
-	// Comment from PC
-	
-	// TEST GIT METHOD
-	public void testMethod() {
-		System.out.println("Hello in test method");
-		// Hello
-		//Fred
-	}
-	
 	
 	// This method sets the size of the frame.
 	// It's called by JVM
