@@ -12,6 +12,12 @@ import screens.PingPongGreenTable;
  * It calculates ball and racket movements,
  * changes their coordinates.
  */
+
+/** This is a test of the GIT
+ * 
+ * @author Chris
+ *
+ */
 public class PingPongGameEngine implements Runnable,
 MouseMotionListener, KeyListener, GameConstants{
 	private PingPongGreenTable table;//reference to table
