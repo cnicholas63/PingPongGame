@@ -32,6 +32,8 @@ implements GameConstants{
 	Dimension preferredSize = new
 			Dimension(TABLE_WIDTH,TABLE_HEIGHT);
 	
+	// Comment from laptop
+	
 	// TEST GIT METHOD
 	public void testMethod() {
 		System.out.println("Hello in test method");
